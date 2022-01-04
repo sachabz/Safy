@@ -13,7 +13,7 @@ Safy is a web project integration created in one day for a school project
 
 ### Langages
 ```
-- CSS3, HTML5,
+- CSS3, HTML5, js
 ```
 
 ### Fonctionnalités
