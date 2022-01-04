@@ -9,6 +9,7 @@ Safy is a web project integration created in one day for a school project
 ```
 - vueJS 
 - node^14
+- Bootstrap
 ```
 
 ### Langages
